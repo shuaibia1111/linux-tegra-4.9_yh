@@ -1,4 +1,14 @@
 <table border="1" cellspacing="0" cellpadding="5">
+<thead>
+    <tr>
+      <th>产品名称</th>
+      <th>AudioCodec</th>
+      <th>I2S/PCM</th>
+      <th>DMIC</th>
+      <th>OWA</th>
+    </tr>
+  </thead>
+  <tbody>
 <!-- T113 -->
 <tr>
 <th rowspan="7">T113</th>
